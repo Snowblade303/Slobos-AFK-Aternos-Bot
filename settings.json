@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "smpvid317.mcsh.io",
+    "ip": "191.96.231.30:11468",
     "port": 11468,
     "version": "",
     "try-creative": false
